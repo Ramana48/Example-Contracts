@@ -1,7 +1,6 @@
 pragma solidity ^0.4.15;
 
 
-/*Author: Swathi Kadambala */
 contract InsurancePremium {
     
     address admin; 
